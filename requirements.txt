@@ -1,4 +1,4 @@
 langchain
-pinecone
+pinecone-client
 openai
 streamlit
